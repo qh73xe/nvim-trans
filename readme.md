@@ -4,7 +4,7 @@ google 翻訳を行う neovim 用プラグイン.
 
 # Install
 
-このプラグインは [<`2`>translate-shell](https://github.com/soimort/translate-shell) に依存します.
+このプラグインは [translate-shell](https://github.com/soimort/translate-shell) に依存します.
 そのため, まずはこのツールを使用可能にする必要があります.
 
 ```
